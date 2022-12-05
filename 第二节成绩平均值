@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+	int c,v,e,m;
+	c=87,m=72,e=93;
+	v=(c+e+m)/3;
+	printf("%d",v);
+}
