@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+	int H,f=100;
+	H=5*(f-32)/9;
+	printf("H=%d\nf=%d",H,f);
+}
+
